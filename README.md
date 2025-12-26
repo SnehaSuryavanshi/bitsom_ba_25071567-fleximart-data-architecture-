@@ -1,4 +1,3 @@
-# bitsom_ba_25071567-fleximart-data-architecture-
 FlexiMart Data Architecture Project
 Student Name: Sneha Vinod Suryavanshi  Student ID: bitsom_ba_25071567  Email: sneha.suryavanshi5656@gmail.com Date: 26-12-2025
 
